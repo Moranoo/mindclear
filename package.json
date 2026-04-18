@@ -1,0 +1,14 @@
+{
+  "name": "mindclear",
+  "version": "1.0.0",
+  "description": "Plateforme pédagogique de psychologie cognitive et sociale.",
+  "main": "index.html",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Mourad",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
